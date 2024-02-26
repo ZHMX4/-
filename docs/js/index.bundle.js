@@ -1,8 +1,1 @@
-let reloadOnce = false;
-
-
-if (reloadOnce = false) {
-
-    location.reload();
-    reloadOnce = true;
-}
+!function(){let o=!1;(o=!1)&&(location.reload(),o=!0)}();
